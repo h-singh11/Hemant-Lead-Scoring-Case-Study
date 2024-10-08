@@ -1,2 +1,2 @@
-# Hemant-Lead-Scoring-Case-Study
+# Lead-Scoring-Case-Study
 Brief case study
